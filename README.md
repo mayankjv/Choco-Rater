@@ -11,3 +11,4 @@ There are some reports that are to be created:
 
 The Python scripts are written in order to prepare data for the above drill downs. The data so prepared is then imported into Tableau Desktop and is used to create interactive visualizations.
 
+The Python script "chocolate.py" uses a python script to predict the rating of a chocolate that is not already known to the system. It uses Random Forest Regressor to do so.
